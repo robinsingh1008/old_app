@@ -1,0 +1,11 @@
+# app-ads.txt file for oldbooks.com
+# This file must be uploaded to: https://oldbooks.com/app-ads.txt
+# 
+# Format: <Field #1>, <Field #2>, <Field #3>, <Field #4>
+# Field #1: Advertising system domain name
+# Field #2: Publisher's account ID
+# Field #3: Type of account/relationship (DIRECT or RESELLER)
+# Field #4: Certification authority ID (optional)
+
+google.com, pub-9189593829339774, DIRECT, f08c47fec0942fa0
+

@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "956533274367",
+    "firebase_url": "https://qoutemotivation-default-rtdb.firebaseio.com",
+    "project_id": "qoutemotivation",
+    "storage_bucket": "qoutemotivation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956533274367:android:441b9fb0f90a3ea5b53eca",
+        "android_client_info": {
+          "package_name": "com.book.axeninfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956533274367-i4lei8cdhhafbm91fjqok0sgc7ukav28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahaozufLSX30u89veY1A_zxJdMF9PG-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956533274367-i4lei8cdhhafbm91fjqok0sgc7ukav28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956533274367-1nejavqd6t7nmkrprjhqgdbkpq7qj6n0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qoutesAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956533274367:android:de66fb12bd52e9b7b53eca",
+        "android_client_info": {
+          "package_name": "com.motivation.axeninfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956533274367-i4lei8cdhhafbm91fjqok0sgc7ukav28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahaozufLSX30u89veY1A_zxJdMF9PG-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956533274367-i4lei8cdhhafbm91fjqok0sgc7ukav28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956533274367-1nejavqd6t7nmkrprjhqgdbkpq7qj6n0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qoutesAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956533274367:android:61197a5d697568d2b53eca",
+        "android_client_info": {
+          "package_name": "com.motivationadmin.axeninfotech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956533274367-i4lei8cdhhafbm91fjqok0sgc7ukav28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahaozufLSX30u89veY1A_zxJdMF9PG-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956533274367-i4lei8cdhhafbm91fjqok0sgc7ukav28.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "956533274367-1nejavqd6t7nmkrprjhqgdbkpq7qj6n0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.qoutesAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
